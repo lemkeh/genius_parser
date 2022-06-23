@@ -1,6 +1,6 @@
 # Genius Parser
 
-Script for scraping, little pre-proccessing and collecting lyrics in txt file by artist's genius url
+Script for scraping, little pre-proccessing and collecting lyrics in txt file by artist's genius url.
 Pre-proccessing works both with ru & en languages
 
 
